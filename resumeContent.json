@@ -1,0 +1,110 @@
+{
+	"basic information": [
+		{
+		"name": "Clarence Magno",
+		"email": "clarencemagno@gmail.com",
+		"phone": "(+63) 668 9161",
+		"location": {
+			"address": "Emilio Aguinaldo 4103",
+			"postalCode": "4104",
+			"city": "Imus City",
+			"province": "Cavite"
+		}
+		}
+	],
+	"profession": [
+		{
+		"institution": "MarsBars",
+		"position": "Bus Conductor",
+		"startDate": "January 2003",
+		"endDate": "January 2012",
+		"location": "Planet Mars"
+		},
+		{
+		"institution": "MacroHard Door",
+		"position": "Founder",
+		"startDate": "January 2013",
+		"endDate": "Present",
+		"location": "Taipei City, Taiwan"
+		},
+		{
+		"institution": "Greensborough Subdivision",
+		"position": "Concrete Mixer",
+		"startDate": "Febreuary 2022",
+		"endDate": "Present",
+		"location": "Dasmarinas, Cavite"
+		}
+	],
+	"education background": [
+		{
+		"education": "High-School Diploma",
+		"institution": "Harvard High",
+		"url": "harvardishigh.edu.ph",
+		"startDate": "June 2013",
+		"endDate": "July 2020",
+		"gradDate": "2013",
+		"location": "Imus, Cavite"
+		},
+		{
+		"education": "Culinary Certificate",
+		"institution": "Greensborough Subdivision",
+		"url": "homeschooled.ph",
+		"startDate": "June 2013",
+		"endDate": "March 2019",
+		"gradDate": "2019",
+		"location": "Dasmarinas, Cavite"
+		}
+	],
+	"achievements": [
+		{
+		"title": "First human to step on Sun",
+		"date": "March 2003",
+		"awarder": "National Aeronautic and Space Administration"
+		},
+		{
+		"title": "Single handedly saved the extinction of Dinosaurs",
+		"date": "March 2004",
+		"awarder": "Department of Environment and Natural Resources"
+		},
+		{
+		"title": "Killed King Kong",
+		"date": "March 2005",
+		"awarder": "Godzilla"
+		},
+		{
+		"title": "Made the first burger-bearing tree",
+		"date": "March 2006",
+		"awarder": "Department of Agriculture"
+		},
+		{
+		"title": "Young successful entrepreneur",
+		"date": "March 2013",
+		"awarder": "Benigno Aquino III"
+		}
+	],
+	"skills and abilities": [
+		"Customer Service and communication skills",
+		"Can work under pressure",
+		"Cultural Awareness",
+		"Problem Solving and Initiative",
+		"Team player",
+		"Positive attitude and behaviour",
+		"Analytical ability and numeracy",
+		"Computer Experience"
+
+	],
+	"references": [
+		{
+		"name": "Sekani Joska",
+		"email": "SekaniJoska@outlook.com",
+		"contact": "(252) 589-7394",
+		"occupancy": "Wildlife professor"
+		},
+		{
+		"name": "Ryhen Gonzales",
+		"email": "RyhenGonzales@hotmail.com",
+		"contact": "(374) 988-2762",
+		"occupancy": "Bartender"
+		}
+	]
+}
